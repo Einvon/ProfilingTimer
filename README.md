@@ -1,2 +1,2 @@
 # ProfilingTimer
-A timecounter (visual) for profiling based on cpp.
+A timer (visual) for profiling based on cpp that can be used in chrome://tracing.
